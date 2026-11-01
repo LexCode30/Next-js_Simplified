@@ -1,0 +1,70 @@
+# Next.js Simplified
+
+1. Important Updates  [s1.html]
+    001. Next 15 Updates  ->  https://drive.google.com/file/d/1NzgkSt2c3CBN2iFMjMosOKoy2uoekeRh/preview
+
+2. Introduction  [s2.html]
+    001. Course Introduction  ->  https://drive.google.com/file/d/1xl09kdmkHpURkfpKF8YtyXOaJEdactbY/preview
+    002. What Is Next.js  ->  https://drive.google.com/file/d/1x9nSWWH4M6koKWvoVYbiIJdTVGeDOmEf/preview
+
+3. App - Geting Started  [s3.html]
+    001. Your-First-Next.js-Project  ->  https://drive.google.com/file/d/1NCr9rR-ulAQCVWEwz7qBLeyrgyewD3bM/preview
+    002. Routing-Basics  ->  https://drive.google.com/file/d/1IBLAsADBIpZ_DkbcTSGx6eBrdodO-3s6/preview
+    003. Metadata  ->  https://drive.google.com/file/d/1kyvo_i-S0FIkVH5j4mWxENn9sSpVnPZh/preview
+    004. Loading - -Errors  ->  https://drive.google.com/file/d/1mwMmhPFLPW3e_tvd-8Dkaa7vINLo3141/preview
+    005. Dynamic-Routes  ->  https://drive.google.com/file/d/1zqwE-BnALJQM8DkUUQb6au-5KxeJX70Y/preview
+    006. TypeScript-Setup  ->  https://drive.google.com/file/d/1iKnzKCkSvJfJQKlCkASdOuk55JCEUvFI/preview
+    007. Read-Only-Blog-Introduction  ->  https://drive.google.com/file/d/1kk6owpDWX7mDe11uCOEu9O41TZ5-GlVL/preview
+    008. Read-Only-Blog-Walkthrough  ->  https://drive.google.com/file/d/1ogNZAa7Yt6CxKy_SrbXJ68gniXcSGfAm/preview
+
+4. App - Data Fetching & Caching  [s4.html]
+    001. Data-Fetching  ->  https://drive.google.com/file/d/1BHcva2sFQq_KaxfenyZBCBOXA8exKQCl/preview
+    002. Request-Memoization-Cache  ->  https://drive.google.com/file/d/1oZOHQq8mJPZQZi1305BE_kpBlJUpte9E/preview
+    003. Data-Cache  ->  https://drive.google.com/file/d/18MDRhtkieRkpMxvka6HLVslYjbcbUk7o/preview
+    004. Full-Route-Cache  ->  https://drive.google.com/file/d/1jGrpL8HPnjDey6qHs8CST06lZddL7iv4/preview
+    005. Router-Cache  ->  https://drive.google.com/file/d/1L3meso5vaxZA36pzHOTymnMHoTLxOnVA/preview
+    006. DynamicIO  ->  https://drive.google.com/file/d/1bIORE_6ggVnB3RUSCwCUl7GBI7hZrodq/preview
+    007. Caching-Recap  ->  https://drive.google.com/file/d/10o4bOF42MAM3nzL46Avqnzf2V8i88edb/preview
+
+5. App - Rendering  [s5.html]
+    001. Server-vs-Client-Components  ->  https://drive.google.com/file/d/1PSri1_0PDbQ2RvYerQ2zRr-R9nxeX0vl/preview
+    002. Dynamic-vs-Static  ->  https://drive.google.com/file/d/1aN1e02GbpRwS2Qw2lvGweLQJPO8GamrI/preview
+    003. Dynamic-Functions  ->  https://drive.google.com/file/d/1aizk5nt1rS-x2Ev0GHCfa9gMu_BsUUym/preview
+    004. Static-Paths  ->  https://drive.google.com/file/d/1kIsmTfLipyK1XETbkOTlArXc8uiDh3uS/preview
+    005. Blog-Updates-Introduction  ->  https://drive.google.com/file/d/10Ewwvcs2bX4Xlk_As4SONZrmWnhzTHFF/preview
+    006. Blog-Updates-Walkthrough  ->  https://drive.google.com/file/d/1HfhI2juq1zOXS_tZU0AAQSLKEMazmgxY/preview
+    007. Blog-Updates-DynamicIO  ->  https://drive.google.com/file/d/1faNg-W9MSmm_s_5hsZAW9FoMY_n6aQ3K/preview
+
+6. App - Data Mutation  [s6.html]
+    001. Server-Actions-With-Forms  ->  https://drive.google.com/file/d/1UnNDAQSJOON2lEhunUY-H07_vPLkBQHj/preview
+    002. Server-Actions-Not-In-Forms  ->  https://drive.google.com/file/d/1hF_hNLNuOcFMPWgKpl9U6wotmACvD5n7/preview
+    003. Blog-Mutation-Introduction  ->  https://drive.google.com/file/d/1KzgFSn_dopGl9Atq-1bT4yctBRVyqDHO/preview
+    004. Blog-Mutation-Walkthrough  ->  https://drive.google.com/file/d/1bx71wT5RH3RFaQrROB9yPWai1q2P3vOS/preview
+    005. Blog-Mutation-DynamicIO  ->  https://drive.google.com/file/d/1_atx2LeuVrJpHiCrkWeJ58wAlQih61qE/preview
+
+7. App - Advanced Routing  [s7.html]
+    001. Templates  ->  https://drive.google.com/file/d/1Qp8RIt_kBYD3YnaWHz9nkl2jZzt_oF80/preview
+    002. Route-Groups  ->  https://drive.google.com/file/d/1t8hGKcoqjTsyTgNg939bL0VVWsTTVwyZ/preview
+    003. Parallel-Routes  ->  https://drive.google.com/file/d/1wJATK1vWjIngCnpAC2ezlQXLjKyjujoV/preview
+    004. Intercepting-Routes  ->  https://drive.google.com/file/d/1a2SQwXqoOXW6C03_3tsU5YaDLsrgjzEk/preview
+    005. Route-Handlers  ->  https://drive.google.com/file/d/1eRD2xVGUBFqHjREra6l_HfuKFptReWoG/preview
+    006. after-Function  ->  https://drive.google.com/file/d/1USK_71jXvcZw6qZvxS2A56RSwH3FBc4u/preview
+
+8. Page - Pages Directory  [s8.html]
+    001. Your-First-Next.js-Pages-Directory-App  ->  https://drive.google.com/file/d/1HIvhIFPNk7fF4709yl7J2KzZvv4BIAkD/preview
+    002. Routing  ->  https://drive.google.com/file/d/1EhhrFVrzkDpiARy9zMttF2ftuLD2kC2T/preview
+    003. Metadata  ->  https://drive.google.com/file/d/1Ng1UeyXaaEAc_NFl_ozA69RwHu9bYg7t/preview
+    004. Special-Files  ->  https://drive.google.com/file/d/1fPYmGWDnXT5l8VShF54jc11CpLnd1zvK/preview
+    005. Rendering-Modes  ->  https://drive.google.com/file/d/1wSaZOOTmBeezCr2fkwkEBYdE6reVHHiy/preview
+    006. getServerSideProps  ->  https://drive.google.com/file/d/1VQAHj6sgb9QJ7Z15c9ys4_EmD_GxYp6a/preview
+    007. getStaticProps - -getStaticPaths  ->  https://drive.google.com/file/d/1fWwMROD61JjUCO59LYPGSqQqRT5l4W22/preview
+    008. getInitialProps  ->  https://drive.google.com/file/d/1XzleHUNrctZm0aW7eaI0ApuWEl_nlXVO/preview
+    009. Data-Mutation  ->  https://drive.google.com/file/d/1QRHgx_8POn0LqCPzTSONMhrcDQIQcT8H/preview
+    010. Blog-Project-Introduction  ->  https://drive.google.com/file/d/15DwYaxCwpj5cFcUc1-AlyfX2FpGMOMTH/preview
+    011. Blog-Project-Walkthrough  ->  https://drive.google.com/file/d/1E7SFGIhjt3_FcIUOmY8tjgO6rHhkLjRp/preview
+
+9. Shared Features  [s9.html]
+    001. Fonts  ->  https://drive.google.com/file/d/1MsrChJiEr4Ed-YNnYtq8vlaaPB7qGueF/preview
+    002. Images  ->  https://drive.google.com/file/d/18QEB1suQ3T-lxIJzCRtJlu-atTvDgGf8/preview
+    003. Scripts  ->  https://drive.google.com/file/d/1z6H_NCEn424S4eDM7AnAd17z5BbaRqTz/preview
+    004. Forms  ->  https://drive.google.com/file/d/1vEW0HSWnxwTSjVpH8nN2v7YR3jzxPvc3/preview
